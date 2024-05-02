@@ -52,6 +52,7 @@ main form button {
   align-items: center;
   margin: 0 auto;
   cursor: pointer;
+  font-weight: 700;
 }
 
 main section {
@@ -93,6 +94,7 @@ main section button {
   align-items: center;
   margin: 0 auto;
   cursor: pointer;
+  
 }
 
 @media screen and (min-width: 350px) and (max-width: 1024px) {
