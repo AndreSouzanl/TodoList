@@ -68,6 +68,9 @@ main section ul li {
   padding: 10px;
   list-style: none;
   font-size: 18px;
+  border: 1px solid #000;
+  margin-bottom: 20px;
+  border-radius: 10px;
 }
 
 main section input {
@@ -80,13 +83,13 @@ main section button {
   padding: 5px;
   font-size: 1.3rem;
   border-radius: 0.6rem;
-  background-color: blue;
+  background-color:#ccc;
   color: #fff;
   border: none;
   outline: none;
 }
 
-@media screen and (min-width: 320px) and (max-width: 1024px) {
+@media screen and (min-width: 350px) and (max-width: 1024px) {
   header {
     width: 100%;
   }
